@@ -93,8 +93,12 @@ learning  →  language design, distributed systems
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JManuelPorras&show_icons=true&hide_border=true&title_color=5cc8f5&icon_color=7c6df2&text_color=c9d6e3&bg_color=0b1a2d" alt="stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JManuelPorras&layout=compact&hide_border=true&title_color=5cc8f5&text_color=c9d6e3&bg_color=0b1a2d" alt="top languages"/>
+  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JManuelPorras&theme=nightowl" alt="stats"/>
+  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JManuelPorras&theme=nightowl" alt="most used languages"/>
+</p>
+<p align="center">
+  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JManuelPorras&theme=nightowl" alt="most commit language"/>
+  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JManuelPorras&theme=nightowl&utcOffset=-5" alt="productive time"/>
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=JManuelPorras&hide_border=true&background=0b1a2d&stroke=1f3a5f&ring=5cc8f5&fire=7c6df2&currStreakLabel=5cc8f5&sideLabels=c9d6e3&dates=8aa0b6&currStreakNum=ffffff&sideNums=ffffff" alt="streak"/>
