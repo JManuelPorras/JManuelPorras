@@ -41,7 +41,7 @@ I work fluently with **Claude Code**, authoring custom agent skills and multi-ag
 |---|---|
 | **[hey-jarvis](https://github.com/JManuelPorras/hey-jarvis)** | Windows voice assistant on Claude Code — wake word, GPU speech-to-text, intent routing, streaming TTS, safety-confirmation hook. |
 | **[faster-whisper-dictation](https://github.com/JManuelPorras/faster-whisper-dictation)** | 100% local push-to-talk dictation; faster-whisper `large-v3` on CUDA, ~1s latency. MIT, bilingual docs. |
-| **[Wall-E interpreter](https://github.com/JManuelPorras/Wall-E-JM)** | A programming-language interpreter in C#: lexer, parser, semantic analysis, AST. |
+| **[Wall-E interpreter](https://github.com/JManuelPorras/wall-e-interpreter)** | A programming-language interpreter in C#: lexer, parser, semantic analysis, AST. |
 | **[Azucararte](https://github.com/JManuelPorras/Sitio-web-Azucararte)** | Multipage website (HTML/Tailwind/JS, JSON-driven) — live on Vercel. |
 
 ### 📊 GitHub
