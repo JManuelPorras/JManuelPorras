@@ -1,6 +1,7 @@
 <img src="assets/header.png" alt="Jose Manuel Porras — Software Engineer · AI & Automation" width="100%" />
 
 <p align="center">
+  <a href="https://josemanuelporras.vercel.app"><img src="https://img.shields.io/badge/Portfolio-josemanuelporras.vercel.app-5CC8F5?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1F3A5F" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/jose-manuel-porras-guerra-8a3b843bb"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:porrasguerrajosemanuel@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://img.shields.io/badge/Based%20in-Havana,%20Cuba-1F3A5F?style=for-the-badge" alt="Location"/>
